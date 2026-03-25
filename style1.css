@@ -61,7 +61,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
         align-items: center;
         text-align: center;
         background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(255, 241, 187, 0)), 
-                        url("./wj4.png") no-repeat center/cover;
+                        url("/intelligent-apple/wj4.png") no-repeat center/cover;
         
 }
 
@@ -128,11 +128,11 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 .card-1{
-    background-image: url("./wj1.jpg");
+    background-image: url("/intelligent-apple/wj1.jpg");
 }
 
 .card-2{
-    background-image: url("./wj2.jpg");
+    background-image: url("/intelligent-apple/wj2.jpg");
 }
 .card svg {
   width: 48px;
